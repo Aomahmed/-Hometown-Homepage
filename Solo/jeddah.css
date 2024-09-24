@@ -1,0 +1,60 @@
+
+body {
+    background-color: rgb(178, 223, 227);
+    display: block;
+    align-items: center;
+    margin: 10px 10px;    
+}
+
+.main_div {
+    justify-content: space-between;
+}
+
+.title_page {
+    border: 2px solid yellow;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px slategrey;
+}
+
+
+.jeddah_img {
+    border: 2px solid rgb(128, 75, 0);
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.citess_title { 
+    text-align: center;
+    border: 2px solid blue;
+    margin: 50px 0px;
+    padding: 10px 0px;
+    font-size: 50px;
+}
+
+.cites_img {
+    border: 2px solid rgb(128, 75, 0);
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.img_radio {
+    border-radius: 300px;
+}
+
+.cites_info {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid rgb(255, 102, 0);
+    margin: 50px 0px;
+    padding: 10px 0px;
+    
+}
+
+u {
+    font-weight: bold;
+    font-size: 30px;
+}
